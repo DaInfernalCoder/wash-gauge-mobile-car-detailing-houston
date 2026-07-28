@@ -28,7 +28,7 @@ Phone and street address have not been supplied. Do not invent them. Licensed st
 - [ ] Apex and `www` attached; registrar DNS saved
 - [ ] Phone supplied and call links completed
 - [ ] Address supplied and final `GMB-INFO.txt` completed
-- [ ] GMB image pack completed
+- [x] Phone/address-independent logo and photo pack completed
 - [ ] GeoStamp synced
 
 ## Draft GBP description
