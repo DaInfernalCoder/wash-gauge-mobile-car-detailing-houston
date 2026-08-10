@@ -9,6 +9,8 @@ Create and launch Wash Gauge Mobile Car Detailing Houston as site 38 of the 100-
 - Service: Mobile Car Detailing
 - Market: Houston, Texas
 - Registered domain: `washgauge.shop`
+- Public phone: `+1 346-663-1841`
+- Street address: `7518 Kings River Cir, Humble, TX 77346`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - Build method: cloned from a validated site family through `scripts/scaffold_sites_from_csv.py`
@@ -16,7 +18,7 @@ Create and launch Wash Gauge Mobile Car Detailing Houston as site 38 of the 100-
 
 ## Truth constraints
 
-Phone and street address have not been supplied. Do not invent them. Licensed stock imagery is illustrative and must not be presented as completed Wash Gauge work.
+The public phone and street address are confirmed as supplied by the owner. Licensed stock imagery is illustrative and must not be presented as completed Wash Gauge work.
 
 ## Acceptance checklist
 
@@ -26,8 +28,10 @@ Phone and street address have not been supplied. Do not invent them. Licensed st
 - [x] Local preflight and browser QA passed
 - [ ] Public GitHub repository and Vercel production project created
 - [ ] Apex and `www` attached; registrar DNS saved
-- [ ] Phone supplied and call links completed
-- [ ] Address supplied and final `GMB-INFO.txt` completed
+- [x] Phone supplied
+- [x] Call links completed
+- [x] Address supplied
+- [x] Final `GMB-INFO.txt` completed
 - [x] Phone/address-independent logo and photo pack completed
 - [ ] GeoStamp synced
 
@@ -37,8 +41,8 @@ Wash Gauge Mobile Car Detailing Houston helps Houston drivers arrange careful in
 
 ## Blocker
 
-Phone and address are required for final call links and GMB completion.
+Public GitHub/Vercel/DNS launch and GeoStamp sync remain pending.
 
 ## Exact next action
 
-Publish to GitHub, deploy to Vercel, and connect registrar DNS automatically.
+Publish the approved site, deploy it to Vercel, connect registrar DNS, and sync GeoStamp.
