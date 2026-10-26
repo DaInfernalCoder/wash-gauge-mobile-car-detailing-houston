@@ -3,9 +3,9 @@
 > Appointment-based mobile car detailing in Humble, Texas.
 
 ## Primary pages
-- [Homepage](https://washgauge.shop/): Business, service, pricing, process, and contact information.
-- [Services](https://washgauge.shop/#services): Interior, exterior, and complete vehicle detailing options.
-- [Local service information](https://washgauge.shop/#local-detailing): How mobile detailing works in Humble.
+- [Homepage](https://kingwoodcardetailing.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://kingwoodcardetailing.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://kingwoodcardetailing.shop/#local-detailing): How mobile detailing works in Humble.
 
 ## Verified business facts
 - Business name: Wash Gauge Mobile Car Detailing Houston
@@ -16,11 +16,11 @@
 
 <!-- SEO-NEXT:START -->
 ## Expanded pages
-- [Services](https://washgauge.shop/services/)
-- [Interior Car Detailing](https://washgauge.shop/services/interior-car-detailing/)
-- [Exterior Car Detailing](https://washgauge.shop/services/exterior-car-detailing/)
-- [Mobile Car Wash](https://washgauge.shop/services/mobile-car-wash/)
-- [Headlight Restoration & Polishing](https://washgauge.shop/services/headlight-restoration/)
-- [About](https://washgauge.shop/about/)
-- [Contact](https://washgauge.shop/contact/)
+- [Services](https://kingwoodcardetailing.shop/services/)
+- [Interior Car Detailing](https://kingwoodcardetailing.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://kingwoodcardetailing.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://kingwoodcardetailing.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://kingwoodcardetailing.shop/services/headlight-restoration/)
+- [About](https://kingwoodcardetailing.shop/about/)
+- [Contact](https://kingwoodcardetailing.shop/contact/)
 <!-- SEO-NEXT:END -->

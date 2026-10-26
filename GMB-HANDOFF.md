@@ -8,7 +8,7 @@ Create and launch Wash Gauge Mobile Car Detailing Houston as site 38 of the 100-
 
 - Service: Mobile Car Detailing
 - Market: Houston, Texas
-- Registered domain: `washgauge.shop`
+- Registered domain: `kingwoodcardetailing.shop`
 - Public phone: `+1 346-663-1841`
 - Street address: `7518 Kings River Cir, Humble, TX 77346`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off

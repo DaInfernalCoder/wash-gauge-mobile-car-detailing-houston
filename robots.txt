@@ -13,4 +13,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://washgauge.shop/sitemap.xml
+Sitemap: https://kingwoodcardetailing.shop/sitemap.xml
