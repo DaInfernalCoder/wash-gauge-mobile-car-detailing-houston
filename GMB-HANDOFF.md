@@ -12,7 +12,7 @@ Create and launch Wash Gauge Mobile Car Detailing Houston as site 38 of the 100-
 - Public phone: `+1 346-663-1841`
 - Street address: `7518 Kings River Cir, Humble, TX 77346`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
-- Booking: https://cal.com/sumitdatta/auto-detail-service
+- Booking: https://kingwoodcardetailing.shop/scheduling
 - Build method: cloned from a validated site family through `scripts/scaffold_sites_from_csv.py`
 - Approval boundary: exact-domain approval is the only launch gate and authorizes the standard automated GitHub, Vercel, custom-host, and DNS workflow
 
